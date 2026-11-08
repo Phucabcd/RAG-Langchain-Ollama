@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+langchain
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+langchain-community
+pypdf
+pydantic-settings
+python-dotenv
